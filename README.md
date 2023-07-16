@@ -12,7 +12,7 @@ Este projeto é uma aplicação Flask que expõe uma API REST para operações e
 
 ### Instruções
 
-1. Clone o repositório para sua máquina local usando `https://github.com/dreamkatana/end/yourrepository.git`.
+1. Clone o repositório para sua máquina local usando `[https://github.com/dreamkatana/end/yourrepository.git](https://github.com/dreamkatana/end.git)`.
 
 2. Navegue até o diretório do projeto: `cd yourrepository`
 
